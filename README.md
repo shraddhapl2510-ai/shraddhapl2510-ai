@@ -31,13 +31,13 @@
 ---
 
 ## 🌟 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhapl2510-ai&layout=compact&theme=tokyonight)
+![Top Languages]- Hindi & English
 
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: your-shraddhapl12510@gmail.com 
+- 💼 LinkedIn: linkedin.com/in/shraddha-patel-32897336b  
 
 ---
 
