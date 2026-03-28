@@ -1,21 +1,23 @@
-# Hi there 👋, I'm Shraddha  
+# Hi👋, I'm Shraddha Patel 
 
 🚀 Passionate about AI, Machine Learning, and building impactful tech solutions  
 
 ---
 
 ## 👩‍💻 About Me  
-- 🌱 Currently exploring **Artificial Intelligence & Data Science**  
-- 💡 Interested in **Machine Learning, Deep Learning, and AI applications**  
-- 🎯 Goal: To build innovative solutions that solve real-world problems  
-- 📚 Always learning and improving my coding skills  
+    "Name"       : "Shraddha Patel",
+    "Degree"     : "M.Sc. Data Science",
+    "University" : "IIIT Lucknow",
+    "Passion"    : ["Machine Learning","Artificial Intelligence", "Data Analysis","Data Scientist"],
+    "Currently"  : "Building tools data-driven projects 🔭",
+    "Fun_fact"   : "I turn raw data into meaningful stories 📖"
 
 ---
 
 ## 🛠️ Tech Stack  
-- 💻 Languages: Python, C++, Java (basic)  
+- 💻 Languages: Python, C 
 - 📊 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
-- 🌐 Web: HTML, CSS, JavaScript  
+- 🌐 Web: HTML, CSS  
 - ⚙️ Tools: Git, GitHub, VS Code  
 
 ---
